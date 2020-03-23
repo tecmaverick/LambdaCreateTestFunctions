@@ -1,4 +1,4 @@
-#AWS Lambda HyperPlane ENI Test
+# AWS Lambda HyperPlane ENI Test
 The script provisions multiple lambda functions within a VPC, to test HyperPlane ENI creation. During execution its creates VPC, Subnet and SecGroups, and then creates lambda functions.
 
 Pre-req
